@@ -1,0 +1,20 @@
+.top{
+   width: 100%;
+   height: 200px;
+   background-color:cornflowerblue;
+   background-image: url(img/pattern.png);
+
+}
+
+
+
+h5{
+color: lightslategray;
+}
+.chi{
+   color: lightskyblue;
+}
+.data{
+   font-size: 7px;
+   
+}
