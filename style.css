@@ -26,3 +26,18 @@ color: lightslategray;
 .evidenziatore{
    background-color: yellow;
 }
+table{
+   width: 100%;
+}
+thead{
+   background-color: lightskyblue;
+}
+th{
+   color: white;
+}
+.riga1{
+   background-color:lightblue;
+}
+.ultima-riga{
+   width: 50%;
+}
