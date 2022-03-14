@@ -3,11 +3,14 @@
    height: 200px;
    background-color:cornflowerblue;
    background-image: url(img/pattern.png);
+}
+.logo{
+   width: 150px;
+   height: 100px;
+   margin-top: 80px;
+   margin-left: 40px;
 
 }
-
-
-
 h5{
 color: lightslategray;
 }
@@ -16,5 +19,10 @@ color: lightslategray;
 }
 .data{
    font-size: 7px;
-   
+}
+.descrizione{
+   font-size: 10px;
+}
+.evidenziatore{
+   background-color: yellow;
 }
