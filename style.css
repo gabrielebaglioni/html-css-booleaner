@@ -41,3 +41,24 @@ th{
 .ultima-riga{
    width: 50%;
 }
+.immagine1{
+   display: block;
+   margin-bottom: 5px;
+}
+.prima{
+   background-image: url(img/monitor.jpg);
+   width: 200px;
+   height: 200px;
+   background-repeat: no-repeat;
+   
+}
+.seconda{
+   background-image: url(img/graph.jpg);
+   width: 200px;
+   height: 200px;
+   background-repeat: no-repeat;
+}
+h4{
+   color: white;
+   text-align: center;
+}
